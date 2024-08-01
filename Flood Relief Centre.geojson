@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Flood Relief Centre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Martin", "State": "Maharashtra", "Flood": "100mm" }, "geometry": { "type": "Point", "coordinates": [ 74.9038845947683, 20.548414892232415 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Gulf", "State": "Maharashtra", "Flood": "110mm" }, "geometry": { "type": "Point", "coordinates": [ 73.876773174459018, 17.065089669303049 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Shayadri", "State": "Maharashtra", "Flood": "90mm" }, "geometry": { "type": "Point", "coordinates": [ 72.825588830236256, 18.961920579427254 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Western", "State": "Maharashtra", "Flood": "150mm" }, "geometry": { "type": "Point", "coordinates": [ 77.725097538964192, 19.857486346484194 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Polly", "State": "Gujarat", "Flood": "45mm" }, "geometry": { "type": "Point", "coordinates": [ 69.978965577465033, 21.88673687453004 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Lord", "State": "Gujarat", "Flood": "120mm" }, "geometry": { "type": "Point", "coordinates": [ 73.295679538880407, 22.382263612319484 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "Philips", "State": "Gujarat", "Flood": "80mm" }, "geometry": { "type": "Point", "coordinates": [ 71.755012408416505, 24.083027125858727 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Name": "Cool", "State": "Madhya Pradesh", "Flood": "110mm" }, "geometry": { "type": "Point", "coordinates": [ 75.74576823940987, 22.76755522042065 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Name": "Bruce", "State": "Madhya Pradesh", "Flood": "130mm" }, "geometry": { "type": "Point", "coordinates": [ 79.886311152531633, 22.332789568792418 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Name": "Flash", "State": "Madhya Pradesh", "Flood": "145mm" }, "geometry": { "type": "Point", "coordinates": [ 79.490445292620777, 24.453663210404681 ] } }
+]
+}
